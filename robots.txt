@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehekeutu.github.io/fSE/sitemap_index.txt
+Sitemap: https://ehekeutu.github.io/hIB/sitemap_index.txt
+Sitemap: https://ehekeutu.github.io/kwv/sitemap_index.txt
+Sitemap: https://ehekeutu.github.io/vjD/sitemap_index.txt
